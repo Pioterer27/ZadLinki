@@ -1,0 +1,26 @@
+<!doctypehtml>
+		<html>
+	<head>
+<title>L10</title>
+	<meta name="author" content="Piotr_Sopel" />
+	<meta name="robots" content="all" /> 
+	<meta charset="UTF-8" />
+	</head>
+	<body>
+<table>
+<table border=”10”>
+	<tr>
+		<td> Katowice</td>
+		<td> <img src=katowice.jpg width="300" height="300"/></td>
+	</tr>
+	<tr>
+		<td> Cieszanów</td>
+		<td> <img src=cieszanow.jpg width="300" height="300"/></td>
+	</tr>
+	<tr>
+		<td> Brenna</td>
+		<td> <img src=brenna.jpg width="300" height="300"/></td>
+	</tr>
+</table>
+	</body>
+		</html>

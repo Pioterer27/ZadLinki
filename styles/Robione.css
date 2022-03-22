@@ -1,0 +1,8 @@
+body{
+  background-color: Moccasin;/*tło w ramce*/
+}
+p{	
+	font-style: italic;
+	font-size: 2.5em;
+	color: Purple;
+}
