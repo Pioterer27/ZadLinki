@@ -3,19 +3,20 @@ html {
 }
 a {
    text-decoration: none;
-   color: Coral; /*kolor tekstu*/
-   font-size: 2.5em
-}
-/*gdy najedziesz kursorem zmieni się na to*/
-a:hover {
-   text-decoration: underline;
+   color: Coral;
+   font-size: 48px
 }
 body {
-  width: 300px;
-  margin: 0 auto;
-  background-color: Moccasin;/*tło w ramce*/
+  width: 800px;
+  background-color: Moccasin;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border-style: groove;
+  border-color: Purple;
+}
+h1 {
+	color: Purple;
+	font-style: italic;
+	font-size: 60px;
 }
 button:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
@@ -23,15 +24,11 @@ button:hover {
     color: white;
 	-webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
+   text-decoration: underline;
 }
 button {
 	background-color: white;
     color: black;
     border: 2px solid MediumOrchid; 
 	border-radius: 12px;
-}
-p {
-	color: Purple;
-	font-style: italic;
-	font-size: 2.5em;
 }

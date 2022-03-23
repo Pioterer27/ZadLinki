@@ -35,3 +35,6 @@ p {
 	font-style: italic;
 	font-size: 2.5em;
 }
+head{
+	background-image: url("budowa.jpg");
+}
