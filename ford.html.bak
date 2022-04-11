@@ -1,0 +1,67 @@
+<!doctype>
+<html>
+	<head>
+	<title>L11(1)</title>
+		<meta charset="UTF-8" />
+		<meta name="description" content="HTML5, kotwica, odsyłacz, link, hiperłącze" />
+		<meta name="author" content="Piotr Sopel" />
+		<meta name="robots" content="all" />
+	<h1>FORD</h1>
+<p>
+	Przedsiębiorstwo Ford powstało w USA w 1903 roku. Założył je Henry Ford,<br />
+	twórca wyrobów masowej produkcji. Rok później otwarto pierwszą zagraniczną <br />
+	fabrykę w Kanadzie. Do dziś w tym kraju produkuje się amerykańskie modele Forda.<br />
+</p>
+	</head>
+<body>
+	<button><a href="#a1">auto1<a></button><br />
+	<button><a href="#a2">auto2<a></button><br />
+		<figure>
+			<img id="a1" src="auta/fordA.jpg" width="512" height="512">	
+			<figcaption>
+			Ford Model A
+			</figcaption>
+		</figure>
+	<a>
+	Pierwszy egzemplarz zjechał z taśmy montażowej 20 października 1927 roku.<br />
+	Początkowo sprzedaż nowego samochodu kształtowała się marnie,<br />
+	jednak Ford A szybko zdobył uznanie klientów. <br />
+	Nadwozie pojazdu oparte było, jak praktycznie we wszystkich ówczesnych samochodach, <br />
+	na stalowej ramie. Pozwalało to, podobnie jak w przypadku Forda T, na łatwą zabudowę<br />
+	różnego rodzaju karoserii. W ofercie dostępnych było kilka podstawowych wersji nadwoziowych<br />
+	w ponad trzydziestu wariantach, m.in. Business Coupe, Deluxe Coupe, Sport Coupe, Standard Coupe,<br />
+	Standard Fordor Sedan, Standard Tudor Sedan, Leatherback Fordor Sedan, Mail Truck, Panel Truck,<br />
+	Phaeton 2-door (dwudrzwiowy), Phaeton 4-door (czterodrzwiowy), Standard Roadster, Station Wagon, Taxi Cab. <br />
+	Ford Model A był pierwszym pojazdem produkowanym przez Forda posiadającym standardowy system sterowania – sprzęgło,<br />
+	hamulec i przepustnica uruchamiane przy pomocy pedałów rozmieszczonych w sposób stosowany do dzisiaj. Dźwignia <br />
+	zmiany biegów także usytuowana była w nowoczesny sposób – zamontowano ją w podłodze, w centralnej części <br />
+	kabiny pod deską rozdzielczą.
+	</a>	
+		<figure>
+			<img id="a2" src="auta/fordM.jpg" width="512" height="512">	
+			<figcaption>
+			Ford Mustang
+			</figcaption>
+		</figure>
+	<a>
+	Pierwszy egzemplarz zaprezentowano 17 kwietnia 1964 roku w Nowym Jorku.<br />
+	Transmisja telewizyjna premiery została wyemitowana przez trzy<br />
+	amerykańskie stacje telewizyjne 19 kwietnia tego samego roku.<br />
+	W roku 1965 nastąpiły niewielkie zmiany zewnętrzne, jak np. zmiana gamy<br />
+	kolorów karoserii oraz wnętrza, oraz kilka zmian konstrukcyjnych, 
+	jak wprowadzenie nowych silników, mocniejszych niż w roku 1964.<br />
+	W roku 1965 pojawił się też pakiet GT, oferujący usztywnione zawieszenie, <br />
+	czterostopniową skrzynię biegów, mocniejszy silnik oraz zmiany w wyglądzie <br />
+	zewnętrznym nadające autu bardziej sportowy charakter. 1965 był to też rok<br />
+	pojawienia się pierwszego Mustanga przerobionego w firmie Shelby – dostosowanego<br />
+	do potrzeb wyścigów Shelby GT350, który miał bardziej sportowy charakter niż zwykły Mustang.<br />
+	</a>
+		<button><a href="index.html">Powrót do strony głównej<a></button>
+	<a>
+	Bibliografia<br />
+	<a href="https://pl.wikipedia.org/wiki/Ford_Motor_Company#Sportowe">https://pl.wikipedia.org/wiki/Ford_Motor_Company#Sportowe<br />
+	<a href="https://pl.wikipedia.org/wiki/Ford_Model_A_(1927)">https://pl.wikipedia.org/wiki/Ford_Model_A_(1927)<br />
+	<a href="https://pl.wikipedia.org/wiki/Ford_Mustang">https://pl.wikipedia.org/wiki/Ford_Mustang<br />
+	</a>
+	</body>
+</html>
