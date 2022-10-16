@@ -13,6 +13,16 @@
 	border-radius: 5%;
 	text-align: center;
 }
+#p3
+{
+	max-width: 300px;
+	font-size: 30px;
+	background-color: #2c3f29;
+	margin-bottom: 20px;
+	padding: 10px;
+	border-radius: 7.5%;
+	border: double #2c3f29 25px;
+}
 
 #p1
 {
@@ -46,4 +56,8 @@
 	width: 250px;
 	height: 60px;
 	background-color: white;
+}
+#p33
+{
+	font-size: 150%;
 }
