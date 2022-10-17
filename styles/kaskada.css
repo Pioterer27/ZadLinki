@@ -57,7 +57,22 @@
 	height: 60px;
 	background-color: white;
 }
-#p33
+#znak-dwa
 {
-	font-size: 150%;
+	display: flex;
+	border-radius: 100%;
+	width: 80%;
+	height: 80%;
+	background-color: white;
+	justify-content: center;
+	align-items: center;
+	font-size: 1000%;
+	font-family: arial;
+}
+#znak-czarne
+{
+	width: 230px;
+	height: 40px;
+	background-color: black;
+	border-radius: 25%;
 }
