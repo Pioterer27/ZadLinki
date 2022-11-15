@@ -1,0 +1,43 @@
+header{
+    height: 110px;
+    background-color: rgb(203, 252, 106);
+    text-align: center;
+    color:rgb(131, 11, 11);
+    padding-top: 50px;
+    font-size: 40px;
+}
+aside{
+    width: 30%;
+    background-color: gray;
+    float:left;
+    height: 500px;
+}
+section{
+    float:left;
+}
+footer{
+    clear:both;
+    background-color: chartreuse;
+    color:rgb(131, 11, 11);
+    text-align: right;
+    height: 30px;
+    padding-top: 10px;
+    vertical-align: 10px;
+}
+img{
+    height:500px;
+}
+div{
+    margin:25%;
+    text-align: center;
+    width: 170px;
+    background-color: white;
+    color: rgb(131, 11, 11);
+    border: outset  brown 5px;
+}
+body{
+    background-color: cornflowerblue;
+}
+a{
+    color:rgb(131, 11, 11);
+}
