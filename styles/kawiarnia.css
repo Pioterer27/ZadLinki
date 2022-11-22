@@ -1,0 +1,42 @@
+body{
+    font-family:'Calibri';
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+header{
+    height:100px;
+    background-color: rgb(255, 138, 28);
+    text-transform:uppercase;
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+nav{
+    height:30px;
+    background-color: rgb(247, 165, 136);
+    padding: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: rgb(247, 165, 136);
+    text-align: right;
+    height:20px;
+    padding: 10px;
+}
+div{
+    background-color: rgb(185, 110, 12);
+    height:27px;
+    width:60px;
+    margin-left: 70px;
+    text-align: center;
+    font-size: larger;
+    
+}
+img{
+    margin-left: 300px;
+}
