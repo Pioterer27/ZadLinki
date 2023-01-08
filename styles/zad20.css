@@ -1,0 +1,92 @@
+body{
+    width:540px;
+    font-family: 'Calibri';
+}
+div.szary{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:70px;
+    background-color: gray;
+    align-items: center;
+}
+div.zolty{
+    width:470px;
+    background-color: yellow;
+    height:32px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+p.roz{
+    font-size: 28px;
+    text-transform: uppercase;
+    color:deeppink;
+}
+div.czerwony{
+    height:400px;
+    background-color:red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+div.rozowy{
+    width:470px;
+    display: flex;
+    height: 125px;
+    background-color: pink;
+    color:white;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    font-size: 32px;
+}
+p.prawa{
+    text-align:right;
+    padding-right: 35px;
+}
+p.lewa{
+    text-align:left;
+    padding-left: 35px;
+}
+div.zielony{
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: baseline;
+    font-size: 32px;
+    background-color: rgb(206, 255, 31);
+
+}
+div.pomarancz{
+    Margin-left:35px;
+    width:470px;
+    height:45px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-style: italic;
+}
+#gru{
+    color:gray;
+    text-transform: uppercase;
+}
+p.srodek{
+    text-align: center;
+}
+#szaro{
+    color: gainsboro;
+}
+#cal{
+    max-width: 470px;
+}
+#prawie{
+    max-width:300px;
+}
+#pol{
+    max-width: 250px;
+}
