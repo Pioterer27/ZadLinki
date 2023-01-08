@@ -24,7 +24,7 @@ p.roz{
     text-transform: uppercase;
     color:deeppink;
 }
-div.czerwony{
+#czerwony{
     height:400px;
     background-color:red;
     display: flex;
@@ -32,7 +32,7 @@ div.czerwony{
     justify-content: space-around;
     align-items: center;
 }
-div.rozowy{
+#rozowy{
     width:470px;
     display: flex;
     height: 125px;
