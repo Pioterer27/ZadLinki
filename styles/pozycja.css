@@ -1,0 +1,108 @@
+body{
+    background-color:blueviolet ;
+}
+.main1{
+    display:flex
+}
+.red, .orange, .yellow, .blue, .violet, .green{
+    width: 100px;
+    height: 100px;
+    border: solid 1px black; 
+}
+.red{
+    background-color: red;
+    position:static;
+
+}
+.orange{
+    background-color: orange;
+    position:relative;
+    left:60px;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+    position: relative;
+    left: 200px;
+    top: -100px;
+}
+.violet{
+    background-color: rgb(214, 34, 214);
+    position: relative;
+    top: -100px;
+}
+.green{
+    background-color: green;
+    position: relative;
+    left: 200px;
+    top: -200px;
+}
+#red{
+    padding: 87px;
+    background-color:rgb(185, 15, 15);
+}
+#black{
+    padding: 88px;
+    background-color:black;
+}
+table{
+    margin: 20px;
+    border-collapse: collapse;
+}
+#lewo{
+    position: relative;
+    left:100px;
+    top: -100px;
+}
+.duzy{
+    background-color: rgb(21, 196, 21);
+    height: 200px;
+    width: 250px;
+    left:10px;
+}
+.sredni{
+    position: relative;
+    background-color: rgb(31, 124, 128);
+    height: 100px;
+    width:150px;
+    left:40px;
+    top:-150px;
+}
+.maly{
+    position: relative;
+    height: 60px;
+    width: 80px;
+    background-color: orange;
+    top: -250px;
+    left: 40px;
+}
+.fiolet{
+    position: absolute;
+    width:100px;
+    height: 100px;
+    background-color: rgb(226, 76, 101);
+    border-radius: 100%;
+    border: solid 1px black; 
+}
+.pink{
+    position: absolute;
+    width:100px;
+    height: 100px;
+    background-color: pink;
+    border-radius: 100%;
+    border: solid 1px black; 
+    left: 40px;
+    top:1935px;
+}
+.czerwony{
+    position: absolute;
+    width:100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 100%;
+    border: solid 1px black; 
+    top:1925px;
+    left: 25px;
+}
