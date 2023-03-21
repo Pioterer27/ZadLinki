@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255,174,200);
+}
+.flex{
+display: flex;
+    justify-content: space-around
+}
+h1{
+    color: transparent;
+    text-align: center;
+    font-size: 8em;
+    font-family: 'Arial';
+    background-image: url(kwiaty.jpg);
+    background-clip: text;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+}
+.lewo, .srode, .prawo{
+    float: left;
+}
+.border{
+    border: 60px solid transparent;
+    padding: 15px;
+    border-image: url(obramo2.jpg) 60 round;
+    font-size: xx-large;
+    font-family:'Stylus BT';
+}
