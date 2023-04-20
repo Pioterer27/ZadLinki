@@ -1,0 +1,15 @@
+ body{
+    background-image: url(pisanka.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+ }
+ div{
+    text-align: center;
+    font-size: 200%;
+    color: rgb(15, 104, 84)
+ }
+ h1{
+    color: rgb(47, 50, 255);
+    font-size: 300%;
+    text-align: center;
+ }
