@@ -8,51 +8,51 @@ div{
     width: 188px;
 }
 div.As{
-    background-image: url("zdjecia/rewers.jpg");
+    background-image: url("../zdjecia/rewers.jpg");
     background-repeat: no-repeat;
     rotate: 30deg;
     z-index:1;
 }
 div.As:hover{
-    background-image: url("zdjecia/as.jpg");
+    background-image: url("../zdjecia/as.jpg");
     background-repeat: no-repeat;
     height: 256px;
     width: 188px;
     z-index: 5;
 }
 .Krol{
-    background-image: url("zdjecia/rewers.jpg");
+    background-image: url("../zdjecia/rewers.jpg");
     background-repeat: no-repeat;
     rotate: 15deg;
     z-index:2;
 }
 div.Krol:hover{
-    background-image: url("zdjecia/krol.jpg");
+    background-image: url("../zdjecia/krol.jpg");
     background-repeat: no-repeat;
     height: 256px;
     width: 188px;
     z-index: 5;
 }
 .Dama{
-    background-image: url("zdjecia/rewers.jpg");
+    background-image: url("../zdjecia/rewers.jpg");
     background-repeat: no-repeat;
     z-index:3;
 }
 div.Dama:hover{
-    background-image: url("zdjecia/dama.jpg");
+    background-image: url("../zdjecia/dama.jpg");
     background-repeat: no-repeat;
     height: 256px;
     width: 188px;
     z-index: 5;
 }
 .Walet{
-    background-image: url("zdjecia/rewers.jpg");
+    background-image: url("../zdjecia/rewers.jpg");
     background-repeat: no-repeat;
     rotate: -15deg;
     z-index:4;
 }
 div.Walet:hover{
-    background-image: url("zdjecia/walet.jpg");
+    background-image: url("../zdjecia/walet.jpg");
     background-repeat: no-repeat;
     height: 256px;
     width: 188px;
