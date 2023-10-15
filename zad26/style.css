@@ -1,0 +1,45 @@
+.lewo, .prawo{
+	float: left;
+	width: 50%;
+}
+
+.arrow {
+    clear: both;
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 175px solid black;
+}
+.ziel, .nieb, .czer, .zol, .platkii {
+	font-size: 20px;
+	padding: 10px;
+	float: left;
+	border: 2px solid black;
+    border-radius: 5%;
+}
+.czer:hover ~ .arrow{
+    border-bottom: 175px solid red;
+}
+.czer:hover{
+    background-color: red;
+}
+.nieb:hover ~ .arrow{
+    border-bottom: 175px solid blue;
+}
+.nieb:hover{
+    background-color: blue;
+}
+.ziel:hover ~ .arrow{
+    border-bottom: 175px solid green;
+}
+.ziel:hover{
+    background-color: green;
+}
+.zol:hover ~ .arrow{
+    border-bottom: 175px solid yellow;
+}
+.zol:hover{
+    background-color: yellow;
+}
