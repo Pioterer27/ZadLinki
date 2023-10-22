@@ -1,0 +1,11 @@
+.staly{
+    position: fixed;
+    top: 400px;
+    left: 0px;
+}
+
+img {
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
