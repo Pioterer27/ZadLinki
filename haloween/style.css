@@ -1,0 +1,28 @@
+body{
+    background-image: url("cmentarz.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white ;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 30px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 15%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.egg{
+    background-image: url("zaloba.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 30px;
+}
+.egg1{
+    padding-top: 25%;
+    padding-left: 5%;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
