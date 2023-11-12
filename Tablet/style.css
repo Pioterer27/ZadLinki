@@ -1,0 +1,35 @@
+html{
+    text-align: center;
+}
+@media screen and (max-width:1000px) {
+    body{
+        display: grid;
+        grid-template-columns: auto;
+        width:100vw;
+        height:calc(100vh - 100px);
+        font-size: 1.2em;
+        background-color: #83A2FF;
+        gap: 5%;
+    }
+    div{
+        background-color: #B4BDFF;
+        height: 100px;
+        box-shadow: 5px 5px 10px;
+    }
+}
+@media screen and (min-width:1000px) {
+    body{
+        display: grid;
+        grid-template-columns: auto auto;
+        width:100vw;
+        height:calc(100vh - 100px);
+        font-size: 1.6em;
+        background-color: #83A2FF;
+        gap: 5% ;
+    }
+    div{
+        background-color: #B4BDFF;
+        height: 200px;
+        box-shadow: 5px 5px 10px;
+    }
+}
